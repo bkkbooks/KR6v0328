@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0328/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩戒品釋
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B08/B08n0029.xml
+    old_id: B08n0029
+hash: sha256:74dc81541f4bb6b321f8e807bbea3f519fb172bea19059e4812dc8d6e534ba43

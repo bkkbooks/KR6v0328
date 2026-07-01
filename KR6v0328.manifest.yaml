@@ -1,0 +1,87 @@
+canonical_identifier: bkk:krp/KR6v0328/v1
+canonical_location: https://kanripo.org/bkk/KR6v0328/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 菩薩戒品釋
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B08/B08n0029.xml
+    old_id: B08n0029
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0328_000.yaml, hash: 'sha256:74dc81541f4bb6b321f8e807bbea3f519fb172bea19059e4812dc8d6e534ba43'}
+  - {seq: 1, filename: KR6v0328_001.yaml, hash: 'sha256:6e33e64a84fcfbdbfa9664a54a077269dc4ce6b4e43d7d114b0160810e06ba7f'}
+  - {seq: 2, filename: KR6v0328_002.yaml, hash: 'sha256:6aee9785d43ec79c8ec1bdce7ad3fe657b2cb26a68cb366a46c6384762d90b9c'}
+  - {seq: 3, filename: KR6v0328_003.yaml, hash: 'sha256:00609abb303b3b0feac4c0744345381ab33052a41700fe880970ab977e7ae88b'}
+  - {seq: 4, filename: KR6v0328_004.yaml, hash: 'sha256:77e5a398db92b73cd8e23073797211c1e5d1dc81de00a43440a6c222ee8e3179'}
+  - {seq: 5, filename: KR6v0328_005.yaml, hash: 'sha256:ebb6548eed979f4183f267f9adebc496b5f77fc9c582936695bfb9c465899d4d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0328_001.markers.yaml, hash: 'sha256:2fc77d63d900969ed54df144d3bbdaa12c22b9ea6117ee7f80c0287493f3e960'}
+  - {seq: 2, role: markers, filename: assets/KR6v0328_002.markers.yaml, hash: 'sha256:a472d0ad98a941ebde2ae2b07f34720f02a812f6c76546c93a8f413eab99a35c'}
+  - {seq: 3, role: markers, filename: assets/KR6v0328_003.markers.yaml, hash: 'sha256:67fd4c3a2b4d32befeb46477496fabf3b35685d6cd148ac6bc5d24b463e97ede'}
+  - {seq: 4, role: markers, filename: assets/KR6v0328_004.markers.yaml, hash: 'sha256:8b94b37e713dbedc022c61731c95ccf8e24414c6e7b3b4e855e463af7a0ba62e'}
+  - {seq: 5, role: markers, filename: assets/KR6v0328_005.markers.yaml, hash: 'sha256:ded7b5141e43ffe56d6deb7b888bbbd4b7cdb29b0175a0034dcfea8697a45a47'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0328_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 14089
+  label: 菩薩戒品釋卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0328_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 12615
+  label: 菩薩戒品釋卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0328_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 11560
+  label: 菩薩戒品釋卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0328_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 14344
+  label: 菩薩戒品釋卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0328_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 15703
+  label: 菩薩戒品釋卷五
+  type: juan
+  level: 1
+hash: sha256:c54a422a2d93be75f27a276ecfaa9b82961d64838380eac8cce0aa0b6f00f7e0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
